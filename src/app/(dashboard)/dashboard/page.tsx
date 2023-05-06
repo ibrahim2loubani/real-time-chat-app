@@ -10,7 +10,7 @@ const page = async ({}) => {
   return (
     <div className='flex min-h-screen justify-center items-center w-full'>
       <Button>Submit</Button>
-      <pre>{JSON.stringify(session)}</pre>
+      <pre>Dashboard</pre>
     </div>
   )
 }
